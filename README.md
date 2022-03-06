@@ -25,3 +25,6 @@ templates for pages http://localhost/ and http://localhost/pages/hello
 ```
 - Created the template file [templates_local/Pages/home.php](./templates_local/Pages/home.php)
 - Created the template file [templates_local/Pages/hello.php](./templates_local/Pages/hello.php)
+
+You could use this approach to use a local path for each
+client installation, environment var, or domain.
